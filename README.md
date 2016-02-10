@@ -1,4 +1,4 @@
-# Torte
+# Trifle
 Lasagne-like framework for TensorFlow
 
 # Install
